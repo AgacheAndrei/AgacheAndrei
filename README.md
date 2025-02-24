@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agacheandrei&label=Profile%20views&color=0e75b6&style=flat" alt="agacheandrei" /> </p>
 
-- 🌱 I’m currently learning **anything that can land me job**
+- 🌱 I’m currently **trying to write good code**
 
-- 👯 I’m looking to collaborate on **projects that can bring a change in someone life.**
+- 👯 I’m looking to collaborate on **projects that can bring something new**
 
-- 💬 Ask me about **software in general.**
+- 💬 Ask me about **history and random facts**
 
 - 📫 How to reach me: **via linkedin https://www.linkedin.com/in/andrei-alexandru-agache/**
 
-- ⚡ Fun fact **I drink coffe☕ without milk or sugar.**
+- ⚡ Fun fact **I love parmesan cheese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
